@@ -4,9 +4,9 @@
 
 <table class="tg">
   <tr>
-    <th class="tg-yw4l">Emiliano Kohmann</th>
-    <th class="tg-yw4l">emikohmann@live.com</th>
-    <th class="tg-yw4l">0351 - 152262941</th>
+    <td class="tg-yw4l">Emiliano Kohmann</td>
+    <td class="tg-yw4l">emikohmann@live.com</td>
+    <td class="tg-yw4l">0351 - 152262941</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Federico Leon</td>
