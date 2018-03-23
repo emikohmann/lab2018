@@ -1,6 +1,3 @@
-###Laboratorio 3
+### Title
 
 ---
-
-Emiliano Kohmann
-Federico Leon
