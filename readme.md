@@ -2,7 +2,7 @@
 
 ---
 
-<table>
+<table style="font-size:10px;">
   <tr>
     <td>Emiliano Kohmann</td>
     <td><a href="mailto:emikohmann@live.com">emikohmann@live.com</a></td>
@@ -12,6 +12,5 @@
     <td>Federico Leon</td>
     <td><a href="mailto:fedeleoncba@gmail.com">fedeleoncba@gmail.com</a></td>
     <td><a href="https://api.whatsapp.com/send?phone=5493513583213">0351 - 153583213</a></td>
-    <td></td>
   </tr>
 </table>
