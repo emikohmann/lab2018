@@ -18,17 +18,17 @@ func (valores *Valores) Promedio() (float32, error) {
     return float32(acum) / float32(len(*valores)), nil
 }
 
-func (valores *Valores) Mediana() (int, error) {
+func (valores *Valores) Mediana() (float32, error) {
     if len(*valores) == 0 {
         return -1, errors.New("el array no puede estar vacio")
     }
     if len(*valores)%2 != 0 {
         i := (len(*valores) - 1) / 2
-        return (*valores)[i], nil
+        return float32((*valores)[i]), nil
     }
     i := (len(*valores) / 2) - 1
     j := i + 1
-    return ((*valores)[i] + (*valores)[j]) / 2, nil
+    return float32(((*valores)[i] + (*valores)[j]) / 2), nil
 }
 
 func (valores *Valores) Moda() (int, error) {
