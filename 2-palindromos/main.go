@@ -6,15 +6,21 @@ import (
 )
 
 func main() {
-    fmt.Println("Es palíndromo: ",
-        esPalindromo("Anita lava la tina"))
+    texto := "Anita lava la tina"
+    fmt.Println("Cadena de texto: ", texto)
+
+    if esPalindromo(texto) {
+        fmt.Println("SI es palíndromo")
+    } else {
+        fmt.Println("NO es palíndromo")
+    }
 }
 
-func esPalindromo(cadena string) bool {
-    cadena = preparar(cadena)
-    n := len(cadena)
+func esPalindromo(texto string) bool {
+    texto = preparar(texto)
+    n := len(texto)
     for i, j := 0, n - 1; i < n / 2; i, j = i+1, j-1 {
-        if cadena[i] != cadena[j] {
+        if texto[i] != texto[j] {
             return false
         }
     }
