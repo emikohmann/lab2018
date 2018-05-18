@@ -19,7 +19,7 @@ func main() {
 func esPalindromo(texto string) bool {
     texto = preparar(texto)
     n := len(texto)
-    for i, j := 0, n - 1; i < n / 2; i, j = i+1, j-1 {
+    for i, j := 0, n-1; i < n/2; i, j = i+1, j-1 {
         if texto[i] != texto[j] {
             return false
         }
