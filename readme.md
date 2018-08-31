@@ -18,4 +18,4 @@
 
 	- [Listado de API's públicas](https://github.com/toddmotto/public-apis)
 
-	- [Ejercicios API's](https://bit.ly/2LzQ8c2)
+	- [Ejercicios API's](https://docs.google.com/document/d/1F3pGH31xMSULXcvdxmRQBnkP3QXHsqyCB1YayXtGa2E/edit?usp=sharing)
