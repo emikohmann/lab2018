@@ -16,6 +16,6 @@
 
 * API's:
 
-	- [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
+	- [Listado de API's públicas](https://github.com/toddmotto/public-apis)
 
 	- [Ejercicios API's](https://bit.ly/2LzQ8c2)
