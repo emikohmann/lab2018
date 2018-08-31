@@ -14,6 +14,8 @@
 
 * Trabajo Práctico 1: [De zorros y conejos](https://goo.gl/VTgnGs)
 
-* [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
+* API's:
 
-* [https://golang.org/pkg/net/http/](https://golang.org/pkg/net/http/)
+	- [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
+
+	- [Ejercicios API's](https://bit.ly/2LzQ8c2)

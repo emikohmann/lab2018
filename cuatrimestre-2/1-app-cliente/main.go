@@ -11,8 +11,11 @@ package main
 import (
 	"fmt"
 	"bytes"
+	"bufio"
 	"net/http"
 	"io/ioutil"
+	"os"
+	"strings"
 	"encoding/json"
 	"errors"
 )
@@ -88,13 +91,14 @@ var (
 // funcion principal
 func main() {
 	for true {
-		fmt.Print("Ingresa un artista: ")
+		fmt.Print("\nIngresa un artista: ")
 
-		var artistName string
-		fmt.Scanf("%s", &artistName)
+		scanner := bufio.NewScanner(os.Stdin)
+		scanner.Scan()
+		artistName := scanner.Text()
 
 		params["method"] = "artist.getinfo"
-		params["artist"] = artistName
+		params["artist"] = strings.ToLower(artistName)
 
 		url := GetUrl(params)
 
