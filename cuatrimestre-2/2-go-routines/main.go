@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	//go fmt.Println("Hola mundo")
-	//go mostrarMensaje(56)
+	// go fmt.Println("Hola mundo")
+	// go mostrarMensaje(56)
 
 	for i := 0; i < 100; i++ {
 
