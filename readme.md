@@ -9,13 +9,11 @@
 * Módulo 3: [Introducción a Go](https://goo.gl/wG4kjh)
 * Módulo 4: [Variables y estructuras en Go](https://goo.gl/QPW13x)
 * Módulo 5: [Manejo de errores en Go](https://goo.gl/u15Xm1)
+* Módulo 6: [Consumiendo APIS en Go](https://docs.google.com/presentation/d/1qAy1IKX3BJ0C1xMT91-lEuJwyzw-ewnfWi42agk3prs/edit?usp=sharing)
+* Módulo 7: [Paralelismo y Concurrencia en Go](https://docs.google.com/presentation/d/19DHg7Hk8_Fzw32UuziTjv2OTCKFyBqPWCJBNYVdIXIw/edit?usp=sharing)
 
-> Trabajos prácticos
+> Otros links
 
-* Trabajo Práctico 1: [De zorros y conejos](https://goo.gl/VTgnGs)
-
-* API's:
-
-	- [Listado de API's públicas](https://github.com/toddmotto/public-apis)
-
-	- [Ejercicios API's](https://docs.google.com/document/d/1F3pGH31xMSULXcvdxmRQBnkP3QXHsqyCB1YayXtGa2E/edit?usp=sharing)
+* [Trabajo Práctico 1](https://goo.gl/VTgnGs)
+* [Listado de APIS públicas](https://github.com/toddmotto/public-apis)
+* [Ejercicios APIS](https://docs.google.com/document/d/1F3pGH31xMSULXcvdxmRQBnkP3QXHsqyCB1YayXtGa2E/edit?usp=sharing)
