@@ -17,3 +17,4 @@
 * [Trabajo Práctico 1](https://goo.gl/VTgnGs)
 * [Listado de APIS públicas](https://github.com/toddmotto/public-apis)
 * [Ejercicios APIS](https://docs.google.com/document/d/1F3pGH31xMSULXcvdxmRQBnkP3QXHsqyCB1YayXtGa2E/edit?usp=sharing)
+* [Ejemplos de concurrencia](https://github.com/emikohmann/go-concurrency-patterns)
