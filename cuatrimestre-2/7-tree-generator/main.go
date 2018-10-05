@@ -17,8 +17,5 @@ func main() {
         panic(err)
     }
 
-
-    assert.n
-
     fmt.Println(output)
 }
