@@ -3,7 +3,6 @@ package main
 import (
     "fmt"
     "github.com/emikohmann/lab2018/cuatrimestre-2/7-tree-generator/generator"
-    "github.com/stretchr/testify/assert"
 )
 
 func main() {
